@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "itinerario_m_02",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 11.290528070675045, 42.615455920889445 ], [ 11.324859438596746, 42.640528323493051 ], [ 11.34652069046745, 42.604455227982392 ], [ 11.329575209520883, 42.587807698407602 ], [ 11.289826584449024, 42.616566300466118 ] ] } }
+]
+}
